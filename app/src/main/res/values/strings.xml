@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JournalAppWithFirebaseAndFirestore</string>
+    <string name="text_view_title">Self.Gratitude.Journal</string>
+    <string name="grateful_text">What are you grateful for today?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="button_login_in">Login</string>
+    <string name="or">Or</string>
+    <string name="button_create_account">Create Account</string>
+    <string name="UserName">User Name</string>
+    <string name="title_hint">Title</string>
+    <string name="hint_thought">Thought</string>
+    <string name="add_thoughts">Add Thoughts</string>
+    <string name="Sign_out">SignOut</string>
+    <string name="hint_to_add_item">Add post by cLicking plus Icon</string>
+    <string name="Title_list">Title</string>
+    <string name="thoughts">Thoughts</string>
+    <string name="time">Time</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781821176977",
+    "project_id": "journalwithfirebasefirestore",
+    "storage_bucket": "journalwithfirebasefirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781821176977:android:dae0e38752a8ce37416330",
+        "android_client_info": {
+          "package_name": "com.monir.journalappwithfirebaseandfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781821176977-3cgjju6brsa9nb3ueqn2kl35j4t1eq1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNsZQq9VZJhLzWZRIbTtrkW7T8YvBvioI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781821176977-3cgjju6brsa9nb3ueqn2kl35j4t1eq1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
